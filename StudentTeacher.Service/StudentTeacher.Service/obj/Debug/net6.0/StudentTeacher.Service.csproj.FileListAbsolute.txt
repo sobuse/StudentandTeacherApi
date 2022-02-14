@@ -1,0 +1,12 @@
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\bin\Debug\net6.0\StudentTeacher.Service.deps.json
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\bin\Debug\net6.0\StudentTeacher.Service.dll
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\bin\Debug\net6.0\ref\StudentTeacher.Service.dll
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\bin\Debug\net6.0\StudentTeacher.Service.pdb
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\StudentTeacher.Service.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\StudentTeacher.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\StudentTeacher.Service.AssemblyInfoInputs.cache
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\StudentTeacher.Service.AssemblyInfo.cs
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\StudentTeacher.Service.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\StudentTeacher.Service.dll
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\ref\StudentTeacher.Service.dll
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\StudentTeacher.Service.pdb
