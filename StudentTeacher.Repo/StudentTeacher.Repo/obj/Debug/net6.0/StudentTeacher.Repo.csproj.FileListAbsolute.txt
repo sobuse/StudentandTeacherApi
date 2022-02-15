@@ -10,3 +10,8 @@ C:\Users\MY PC\source\repos\src\StudentTeacher.Repo\StudentTeacher.Repo\obj\Debu
 C:\Users\MY PC\source\repos\src\StudentTeacher.Repo\StudentTeacher.Repo\obj\Debug\net6.0\StudentTeacher.Repo.dll
 C:\Users\MY PC\source\repos\src\StudentTeacher.Repo\StudentTeacher.Repo\obj\Debug\net6.0\ref\StudentTeacher.Repo.dll
 C:\Users\MY PC\source\repos\src\StudentTeacher.Repo\StudentTeacher.Repo\obj\Debug\net6.0\StudentTeacher.Repo.pdb
+C:\Users\MY PC\source\repos\src\StudentTeacher.Repo\StudentTeacher.Repo\bin\Debug\net6.0\StudentTeacher.Repo.runtimeconfig.json
+C:\Users\MY PC\source\repos\src\StudentTeacher.Repo\StudentTeacher.Repo\bin\Debug\net6.0\StudentTeacher.Core.dll
+C:\Users\MY PC\source\repos\src\StudentTeacher.Repo\StudentTeacher.Repo\bin\Debug\net6.0\StudentTeacher.Core.pdb
+C:\Users\MY PC\source\repos\src\StudentTeacher.Repo\StudentTeacher.Repo\obj\Debug\net6.0\StudentTeacher.Repo.csproj.CopyComplete
+C:\Users\MY PC\source\repos\src\StudentTeacher.Repo\StudentTeacher.Repo\obj\Debug\net6.0\StudentTeacher.Repo.genruntimeconfig.cache

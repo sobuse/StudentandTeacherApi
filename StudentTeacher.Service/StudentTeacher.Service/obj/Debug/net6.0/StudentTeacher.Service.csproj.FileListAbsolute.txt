@@ -10,3 +10,10 @@ C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\ob
 C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\StudentTeacher.Service.dll
 C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\ref\StudentTeacher.Service.dll
 C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\StudentTeacher.Service.pdb
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\bin\Debug\net6.0\StudentTeacher.Service.runtimeconfig.json
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\bin\Debug\net6.0\StudentTeacher.Core.dll
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\bin\Debug\net6.0\StudentTeacher.Repo.dll
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\bin\Debug\net6.0\StudentTeacher.Repo.pdb
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\bin\Debug\net6.0\StudentTeacher.Core.pdb
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\StudentTeacher.Service.csproj.CopyComplete
+C:\Users\MY PC\source\repos\src\StudentTeacher.Service\StudentTeacher.Service\obj\Debug\net6.0\StudentTeacher.Service.genruntimeconfig.cache
