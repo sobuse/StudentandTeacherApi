@@ -10,3 +10,5 @@ C:\Users\MY PC\source\repos\src\StudentTeacher.Core\StudentTeacher.Core\obj\Debu
 C:\Users\MY PC\source\repos\src\StudentTeacher.Core\StudentTeacher.Core\obj\Debug\net6.0\StudentTeacher.Core.dll
 C:\Users\MY PC\source\repos\src\StudentTeacher.Core\StudentTeacher.Core\obj\Debug\net6.0\ref\StudentTeacher.Core.dll
 C:\Users\MY PC\source\repos\src\StudentTeacher.Core\StudentTeacher.Core\obj\Debug\net6.0\StudentTeacher.Core.pdb
+C:\Users\MY PC\source\repos\src\StudentTeacher.Core\StudentTeacher.Core\bin\Debug\net6.0\StudentTeacher.Core.runtimeconfig.json
+C:\Users\MY PC\source\repos\src\StudentTeacher.Core\StudentTeacher.Core\obj\Debug\net6.0\StudentTeacher.Core.genruntimeconfig.cache
