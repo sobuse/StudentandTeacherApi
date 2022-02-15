@@ -13,6 +13,6 @@ namespace StudentTeacher.Repo.GenericRepository.Interface
         Task<IQueryable<T>> FindByConditionAsync(Expression<Func<T, bool>> expression, bool trackChanges);
         Task CraeteAsync (T entity);
         Task UpdateAsync(T entity);
-        Task DeleteAsync(T entity);
+        Task RemoveAsync(T entity);
     }
 }
