@@ -19,7 +19,7 @@ namespace StudentTeacher.Repo
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfiguration(new TeacherDto());
+            modelBuilder.ApplyConfiguration(new TeacherData());
 
             modelBuilder.ApplyConfiguration(new StudentData());
         }
