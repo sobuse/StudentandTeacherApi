@@ -1,4 +1,5 @@
-﻿using StudentTeacher.Repo.GenericRepository.Interface;
+﻿using Microsoft.EntityFrameworkCore;
+using StudentTeacher.Repo.GenericRepository.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,29 +14,24 @@ namespace StudentTeacher.Repo.GenericRepository.Service
         protected RepositoryContext RepositoryContext;
         public RepositoryBase(RepositoryContext repositoryContext)=>RepositoryContext = repositoryContext;
 
-        public Task CraeteAsync(T entity)
+        public async     Task CraeteAsync(T entity)
         {
-            throw new NotImplementedException();
+            await Task.Run(() => RepositoryContext.Set<T>().Add(entity));
         }
 
-        public Task<IQueryable<T>> FindAllAsync(bool trackChanges)
-        {
-            throw new NotImplementedException();
-        }
+        public async Task<IQueryable<T>> FindAllAsync(bool trackChanges) => !trackChanges ? await Task.Run(() => RepositoryContext.Set<T>().AsNoTracking()) : await Task.Run(() => RepositoryContext.Set<T>());
 
-        public Task<IQueryable<T>> FindByConditionAsync(Expression<Func<T, bool>> expression, bool trackChanges)
-        {
-            throw new NotImplementedException();
-        }
+        public async Task<IQueryable<T>> FindByConditionAsync(Expression<Func<T, bool>> expression, bool trackChanges) =>
+            !trackChanges ? await Task.Run(() => RepositoryContext.Set<T>().Where(expression).AsNoTracking())
+            : await Task.Run(() => RepositoryContext.Set<T>().Where(expression));
+        
+            
+        
 
-        public Task RemoveAsync(T entity)
-        {
-            throw new NotImplementedException();
-        }
+        public async Task RemoveAsync(T entity)=>await Task.Run(()=>RepositoryContext.Set<T>().Remove(entity));   
+        
 
-        public Task UpdateAsync(T entity)
-        {
-            throw new NotImplementedException();
-        }
+        public async Task UpdateAsync(T entity) =>await Task.Run(()=> RepositoryContext.Set<T>().Update(entity));
+       
     }
 }

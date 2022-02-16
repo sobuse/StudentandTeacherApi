@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace StudentTeacher.Core.Models
 {
-    public class Student
+    public  class Student
     {   [Column("StudentId")]
         public int Id { get; set; }
 
